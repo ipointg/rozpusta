@@ -11920,12 +11920,14 @@
         "swinging\n\nNetori"
       ],
       "bannerUrl": "https://attachments.f95zone.to/2017/11/54390_GYuze3hi6DlNBku38EAe0tI9O-sSvv9xypwsKZhVqqXWP4OXHfLT6dgJQmvvuEon.png",
-      "f95Url": "https://f95zone.to/threads/corruption-final-mr-c.1878/",
-      "releaseDate": "",
+      "f95Url": "https://f95zone.to/threads/1878/",
+      "releaseDate": "2022-06-29",
       "knownTitles": [
         "corruption-Final-1.0-pc",
-        "Corruption"
-      ]
+        "Corruption",
+        "https://f95zone.to/threads/1878/"
+      ],
+      "bannerPath": "Corruption.jpg"
     },
     {
       "title": "Corruption Kingdom",

@@ -11921,11 +11921,15 @@
       ],
       "bannerUrl": "https://attachments.f95zone.to/2017/11/54390_GYuze3hi6DlNBku38EAe0tI9O-sSvv9xypwsKZhVqqXWP4OXHfLT6dgJQmvvuEon.png",
       "f95Url": "https://f95zone.to/threads/corruption-final-mr-c.1878/",
-      "releaseDate": "",
+      "releaseDate": "Unknown Version",
       "knownTitles": [
         "corruption-Final-1.0-pc",
         "Corruption"
-      ]
+      ],
+      "path": "E:\\Games\\+Completed+\\corruption-Final-1.0-pc",
+      "iconPath": "C:\\Users\\jddon\\AppData\\Roaming\\erogame-library\\icons\\corruption-Final-1.0-pc.png",
+      "bannerPath": "C:\\Users\\jddon\\AppData\\Roaming\\erogame-library\\rozpustaApp\\banners\\corruption.jpg",
+      "lastVersionChecked": "v9xypwsKZhVqqXWP4OXHfLT6dgJQmvvuEon"
     },
     {
       "title": "Corruption Kingdom",
@@ -51487,6 +51491,22 @@
       ]
     },
     {
+      "title": "Renpycompletedsolvalley School",
+      "version": "v4.0.0",
+      "description": "Solvalley School is a mix of Dating Sim and Visual Novel. It deals with the adventures of Alex, a young student at local school. It is up to the player to develop Alex's abilities to try and win as many girls as possible. There are more than 30 girls for Alex to know (and relate to). The player can walk around the city, work in the bar, train in the gym or be a good boy and spend the days studying. There are almost 100 events available, several and several hours of gameplay and numerous animated scenes.​",
+      "tags": [
+        "SPOILER"
+      ],
+      "bannerUrl": "https://attachments.f95zone.to/2018/12/218703_1.jpg",
+      "f95Url": "https://f95zone.to/threads/3368/",
+      "releaseDate": "2024-03-31",
+      "knownTitles": [
+        "SolvalleySchoolRV-4.0.0-pc",
+        "Renpycompletedsolvalley School",
+        "Renpycompletedsolvalley"
+      ]
+    },
+    {
       "title": "Renryuu Ascension",
       "version": "v25.03.03",
       "description": "Renryuu: Ascension follows the story of Ryen, a half dragon-half human. After some sudden events Ryen becomes the King of his country and starts his dutys as the King in the castle while also traveling around when needed to take care of many problems inside and outside of the country.​",
@@ -67045,11 +67065,16 @@
       ],
       "bannerUrl": "https://attachments.f95zone.to/2018/06/125046_pat16x4b.jpg",
       "f95Url": "https://f95zone.to/threads/the-visit-v1-0-stiglet.10361/",
-      "releaseDate": "",
+      "releaseDate": "Unknown Version",
       "knownTitles": [
         "TheVisit-1.0-pc",
-        "The Visit"
-      ]
+        "The Visit",
+        "The"
+      ],
+      "path": "E:\\Games\\+Completed+\\TheVisit-1.0-pc",
+      "iconPath": "C:\\Users\\jddon\\AppData\\Roaming\\erogame-library\\icons\\TheVisit-1.0-pc.png",
+      "bannerPath": "C:\\Users\\jddon\\AppData\\Roaming\\erogame-library\\rozpustaApp\\banners\\the_visit.jpg",
+      "lastVersionChecked": "v1.0"
     },
     {
       "title": "The Void Club",
@@ -70863,6 +70888,22 @@
       "releaseDate": "2025-04-17",
       "knownTitles": [
         "Viv The Game"
+      ]
+    },
+    {
+      "title": "Vnrenpycompletedbeach Vacation",
+      "version": "v1.0",
+      "description": "Hey guys. I did a little game to learn how to use Ren'py. In the game you control Floyd, a high school boy who is going to spend a week at the beach. To the boy's good fortune, two female friends of the school, accompanied by the mother of one of them, are in the same hotel.",
+      "tags": [
+        "SPOILER"
+      ],
+      "bannerUrl": "https://attachments.f95zone.to/2017/08/28007_screen07mini.png",
+      "f95Url": "https://f95zone.to/threads/4649/",
+      "releaseDate": "Unknown Release Date",
+      "knownTitles": [
+        "SVSReward-BeachVacation-1.0-pc",
+        "Vnrenpycompletedbeach Vacation",
+        "Vnrenpycompletedbeach"
       ]
     },
     {
